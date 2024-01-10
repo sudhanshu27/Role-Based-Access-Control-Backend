@@ -13,7 +13,7 @@ during the signup process.
  Allow users to log in using email/phone and password.  
 ***3. Modify User Details -> (done)***  
  Users can only modify their own name and profile image.  
- Phone number and email, once entered, cannot be changed.  
+ Phone number and email, once entered, cannot be changed.***(will implement it soon)***  
 ***4. Delete User -> (done)***  
  Users should have the ability to delete their accounts.  
 **Roles and Access Control:**  
